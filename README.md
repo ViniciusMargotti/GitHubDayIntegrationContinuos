@@ -1,0 +1,2 @@
+# GitHubDayIntegrationContinuos
+Integration Continuos .netCore
